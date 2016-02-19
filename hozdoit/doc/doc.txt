@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 eclipse doc 1 
 abc
+=======
+eclipse doc 1
+abc
+def
+>>>>>>> 0815a6dcbea5042c0c778f0ac4092f37aa343604
